@@ -1,0 +1,19 @@
+{
+  "name": "bot-ics",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Bot ICS (login + sesion) con Playwright",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "login": "node src/index.js",
+    "run-ICS": "node src/core/client-launch.js",
+    "db:expedientes-json": "node src/database/export-expedientes-json.js",
+    "pw:install": "playwright install chromium"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "mssql": "^12.2.0",
+    "playwright": "^1.52.0"
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "timestamp": "2026-03-03T04:32:58.237Z",
+  "window": {
+    "hwnd": "136316666",
+    "processId": 9012,
+    "processName": "ics_client7_3_0_0",
+    "title": "Internet Collection System 7_3_0_0 build 20201204 - [Internet Collection System ]",
+    "isIcsProcess": true
+  },
+  "controls": {
+    "buscarButton": {
+      "hwnd": "150800412",
+      "title": "Buscar",
+      "className": "Button",
+      "left": 251,
+      "top": 98,
+      "right": 321,
+      "bottom": 119,
+      "width": 70,
+      "height": 21
+    },
+    "identificationInput": {
+      "hwnd": "33949782",
+      "title": "",
+      "className": "Edit",
+      "left": 108,
+      "top": 98,
+      "right": 243,
+      "bottom": 117,
+      "width": 135,
+      "height": 19
+    },
+    "legalTab": {
+      "hwnd": "199356",
+      "title": "Legal",
+      "className": "FNUDO3100",
+      "left": 14,
+      "top": 152,
+      "right": 867,
+      "bottom": 339,
+      "width": 853,
+      "height": 187
+    }
+  },
+  "summary": {
+    "ok": false,
+    "method": "pbtab_scan_click",
+    "realClickTried": true,
+    "realClickHit": false,
+    "realClickAttempts": 9,
+    "realClickMode": "guided_global_attempt",
+    "realTabCandidates": 1,
+    "realTabHandleUsed": "186123980",
+    "fallbackReason": "real_keyboard_and_click_not_confirmed",
+    "selected": false,
+    "panelChanged": true,
+    "activePageBefore": "Deudor",
+    "activePageAfter": null,
+    "legalHandleUsed": "199356",
+    "deudorHandleUsed": "108071366",
+    "parentGroupUsed": "186123980",
+    "mainWindowRequested": "136316666",
+    "mainWindowUsed": "136316666",
+    "mainWindowSource": "requested",
+    "inputRoot": "136316666",
+    "buscarRoot": "136316666",
+    "legalRoot": "136316666",
+    "inputAncestorPage": null,
+    "buscarAncestorPage": null,
+    "hiddenCount": 0,
+    "debug": {
+      "tabCandidates": [
+        "186123980"
+      ],
+      "directLegalClickCandidates": [],
+      "orderedPages": [
+        {
+          "ix": 0,
+          "hwnd": "108071366",
+          "parentHwnd": "186123980",
+          "title": "Deudor",
+          "className": "FNUDO3100",
+          "visible": true
+        },
+        {
+          "ix": 1,
+          "hwnd": "919110",
+          "parentHwnd": "186123980",
+          "title": "Direcciones",
+          "className": "FNUDO3100",
+          "visible": false
+        },
+        {
+          "ix": 2,
+          "hwnd": "257493072",
+          "parentHwnd": "186123980",
+          "title": "Obligaciones",
+          "className": "FNUDO3100",
+          "visible": false
+        },
+        {
+          "ix": 3,
+          "hwnd": "199320",
+          "parentHwnd": "186123980",
+          "title": "Cuentas",
+          "className": "FNUDO3100",
+          "visible": false
+        },
+        {
+          "ix": 4,
+          "hwnd": "199356",
+          "parentHwnd": "186123980",
+          "title": "Legal",
+          "className": "FNUDO3100",
+          "visible": false
+        },
+        {
+          "ix": 5,
+          "hwnd": "1182786",
+          "parentHwnd": "186123980",
+          "title": "Promesas",
+          "className": "FNUDO3100",
+          "visible": false
+        },
+        {
+          "ix": 6,
+          "hwnd": "199968",
+          "parentHwnd": "186123980",
+          "title": "Garant�as",
+          "className": "FNUDO3100",
+          "visible": false
+        },
+        {
+          "ix": 7,
+          "hwnd": "259262850",
+          "parentHwnd": "186123980",
+          "title": "Negociaciones",
+          "className": "FNUDO3100",
+          "visible": false
+        },
+        {
+          "ix": 8,
+          "hwnd": "199272",
+          "parentHwnd": "186123980",
+          "title": "Cheques",
+          "className": "FNUDO3100",
+          "visible": false
+        },
+        {
+          "ix": 9,
+          "hwnd": "199302",
+          "parentHwnd": "186123980",
+          "title": "Visitas",
+          "className": "FNUDO3100",
+          "visible": false
+        },
+        {
+          "ix": 10,
+          "hwnd": "199386",
+          "parentHwnd": "186123980",
+          "title": "Cartas",
+          "className": "FNUDO3100",
+          "visible": false
+        },
+        {
+          "ix": 11,
+          "hwnd": "199412",
+          "parentHwnd": "186123980",
+          "title": "Bienes",
+          "className": "FNUDO3100",
+          "visible": false
+        }
+      ],
+      "pbSource": [
+        {
+          "hwnd": "186123980",
+          "parentHwnd": "396442"
+        }
+      ],
+      "attemptTrace": [
+        {
+          "n": 1,
+          "phase": "direct_candidates",
+          "mode": "prepare",
+          "targetHwnd": "0",
+          "x": null,
+          "y": null,
+          "activeBefore": "",
+          "activeAfter": "",
+          "confirmed": false,
+          "note": "count=0",
+          "ts": "23:32:54.631"
+        },
+        {
+          "n": 2,
+          "phase": "tab_candidates",
+          "mode": "prepare",
+          "targetHwnd": "0",
+          "x": null,
+          "y": null,
+          "activeBefore": "",
+          "activeAfter": "",
+          "confirmed": false,
+          "note": "count=1",
+          "ts": "23:32:54.688"
+        },
+        {
+          "n": 3,
+          "phase": "keyboard_plan",
+          "mode": "cycle_right",
+          "targetHwnd": "186123980",
+          "x": null,
+          "y": null,
+          "activeBefore": "Deudor",
+          "activeAfter": "",
+          "confirmed": false,
+          "note": "steps=8,y=11,15,19",
+          "ts": "23:32:54.733"
+        },
+        {
+          "n": 4,
+          "phase": "keyboard_step",
+          "mode": "keyboard_cycle_right",
+          "targetHwnd": "186123980",
+          "x": 36,
+          "y": 11,
+          "activeBefore": "Deudor",
+          "activeAfter": "Obligaciones",
+          "confirmed": false,
+          "note": "step=1",
+          "ts": "23:32:55.184"
+        },
+        {
+          "n": 5,
+          "phase": "keyboard_step",
+          "mode": "keyboard_cycle_right",
+          "targetHwnd": "186123980",
+          "x": 36,
+          "y": 11,
+          "activeBefore": "Obligaciones",
+          "activeAfter": "Obligaciones",
+          "confirmed": false,
+          "note": "step=2",
+          "ts": "23:32:55.559"
+        },
+        {
+          "n": 6,
+          "phase": "keyboard_step",
+          "mode": "keyboard_cycle_right",
+          "targetHwnd": "186123980",
+          "x": 36,
+          "y": 11,
+          "activeBefore": "Obligaciones",
+          "activeAfter": "Cuentas",
+          "confirmed": false,
+          "note": "step=3",
+          "ts": "23:32:55.931"
+        },
+        {
+          "n": 7,
+          "phase": "keyboard_step",
+          "mode": "keyboard_cycle_right",
+          "targetHwnd": "186123980",
+          "x": 36,
+          "y": 11,
+          "activeBefore": "Cuentas",
+          "activeAfter": "Cuentas",
+          "confirmed": false,
+          "note": "step=4",
+          "ts": "23:32:56.292"
+        },
+        {
+          "n": 8,
+          "phase": "keyboard_step",
+          "mode": "keyboard_cycle_right",
+          "targetHwnd": "186123980",
+          "x": 36,
+          "y": 11,
+          "activeBefore": "Cuentas",
+          "activeAfter": "",
+          "confirmed": false,
+          "note": "step=5",
+          "ts": "23:32:56.665"
+        },
+        {
+          "n": 9,
+          "phase": "keyboard_step",
+          "mode": "keyboard_cycle_right",
+          "targetHwnd": "186123980",
+          "x": 36,
+          "y": 11,
+          "activeBefore": "",
+          "activeAfter": "",
+          "confirmed": false,
+          "note": "step=6",
+          "ts": "23:32:57.025"
+        },
+        {
+          "n": 10,
+          "phase": "keyboard_step",
+          "mode": "keyboard_cycle_right",
+          "targetHwnd": "186123980",
+          "x": 36,
+          "y": 11,
+          "activeBefore": "",
+          "activeAfter": "",
+          "confirmed": false,
+          "note": "step=7",
+          "ts": "23:32:57.399"
+        },
+        {
+          "n": 11,
+          "phase": "keyboard_step",
+          "mode": "keyboard_cycle_right",
+          "targetHwnd": "186123980",
+          "x": 36,
+          "y": 11,
+          "activeBefore": "",
+          "activeAfter": "",
+          "confirmed": false,
+          "note": "step=8",
+          "ts": "23:32:57.759"
+        },
+        {
+          "n": 12,
+          "phase": "click",
+          "mode": "guided_global_attempt",
+          "targetHwnd": "186123980",
+          "x": 334,
+          "y": 11,
+          "activeBefore": "",
+          "activeAfter": "",
+          "confirmed": false,
+          "note": "",
+          "ts": "23:32:58.165"
+        },
+        {
+          "n": 13,
+          "phase": "final_state",
+          "mode": "pbtab_scan_click",
+          "targetHwnd": "199356",
+          "x": null,
+          "y": null,
+          "activeBefore": "Deudor",
+          "activeAfter": "",
+          "confirmed": false,
+          "note": "postLegalVisible=False",
+          "ts": "23:32:58.173"
+        }
+      ]
+    },
+    "error": "No se pudo activar Legal."
+  }
+}

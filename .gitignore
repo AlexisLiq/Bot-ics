@@ -1,0 +1,9 @@
+node_modules/
+.venv/
+.env
+storage/session.json
+storage/*.jnlp
+storage/*.png
+playwright-report/
+test-results/
+*.log

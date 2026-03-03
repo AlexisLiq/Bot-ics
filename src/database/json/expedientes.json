@@ -1,0 +1,3296 @@
+{
+  "stats": {
+    "expedientes": 85
+  },
+  "accepted": [
+    {
+      "idExpediente": "9407",
+      "expediente": "LIQ-0009407",
+      "demandado1Documento": "80125021",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "15/07/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "INADMISION",
+          "fecActuacion": "29/08/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "SUBSANACION PRESENTADA",
+          "fecActuacion": "04/09/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "IMPULSAR MANDAMIENTO DE PAGO",
+          "fecActuacion": "19/11/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "30/04/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "INICIO NOTIFICACION",
+          "fecActuacion": "06/05/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "NOTIFICACION DEVUELTA FRONT",
+          "fecActuacion": "13/05/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO  2213",
+          "fecActuacion": "01/08/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "22/08/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "27/11/2025",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "9430",
+      "expediente": "LIQ-0009430",
+      "demandado1Documento": "1090364264",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "06/05/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "INICIO NOTIFICACION",
+          "fecActuacion": "06/05/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO  2213",
+          "fecActuacion": "08/05/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 NEGATIVO",
+          "fecActuacion": "26/06/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO 291",
+          "fecActuacion": "26/06/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 291 POSITIVO",
+          "fecActuacion": "24/07/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO 292",
+          "fecActuacion": "24/07/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 292 POSITIVO",
+          "fecActuacion": "25/08/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "SOLICITUD OFICIAR ENTIDADES",
+          "fecActuacion": "25/08/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "NOTIFICACION DEVUELTA FRONT",
+          "fecActuacion": "11/11/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "20/01/2026",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "9431",
+      "expediente": "LIQ-0009431",
+      "demandado1Documento": "1093746003",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "03/07/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO  2213",
+          "fecActuacion": "21/01/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "13/02/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "02/07/2025",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "15826",
+      "expediente": "LIQ-0015826",
+      "demandado1Documento": "52265530",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO 291",
+          "fecActuacion": "04/10/2023",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "10/10/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "20/02/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "02/07/2025",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "16550",
+      "expediente": "LIQ-0016550",
+      "demandado1Documento": "5659749",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO 291",
+          "fecActuacion": "27/03/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO  2213",
+          "fecActuacion": "27/03/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "01/04/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "30/07/2025",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "17535",
+      "expediente": "LIQ-0017535",
+      "demandado1Documento": "9004062868",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "SOLICITUD 293",
+          "fecActuacion": "23/01/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "INCLUSION REGISTRO NDPE",
+          "fecActuacion": "29/05/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "18086",
+      "expediente": "LIQ-0018086",
+      "demandado1Documento": "19246005",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "SOLICITUD OFICIAR ENTIDADES",
+          "fecActuacion": "04/06/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "INCLUSION REGISTRO NDPE",
+          "fecActuacion": "30/09/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "18110",
+      "expediente": "LIQ-0018110",
+      "demandado1Documento": "7248416",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "NOTIFICACION CURADOR",
+          "fecActuacion": "05/09/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "18148",
+      "expediente": "LIQ-0018148",
+      "demandado1Documento": "51656770",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "20/09/2018",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "INICIO NOTIFICACION",
+          "fecActuacion": "10/07/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO  2213",
+          "fecActuacion": "01/08/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "22/08/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "18949",
+      "expediente": "LIQ-0018949",
+      "demandado1Documento": "17173639",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "23/07/2021",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "NOTIFICACION CURADOR",
+          "fecActuacion": "31/01/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "19035",
+      "expediente": "LIQ-0019035",
+      "demandado1Documento": "88198324",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO 291",
+          "fecActuacion": "04/10/2023",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "24/03/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "02/07/2025",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "19201",
+      "expediente": "LIQ-0019201",
+      "demandado1Documento": "13252071",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "NOTIFICACION CURADOR",
+          "fecActuacion": "11/09/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "NOTIFICACION PERSONAL",
+          "fecActuacion": "20/11/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "19287",
+      "expediente": "LIQ-0019287",
+      "demandado1Documento": "91075502",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "08/09/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "27/11/2025",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "19489",
+      "expediente": "LIQ-0019489",
+      "demandado1Documento": "1047389474",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "SOLICITUD 293",
+          "fecActuacion": "06/10/2023",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "TERMINOS 317",
+          "nombreSubEtapa": "REQUIERE",
+          "fecActuacion": "25/02/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "FECHA PUBLICACION 293",
+          "fecActuacion": "22/05/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "NOTIFICACION CURADOR",
+          "fecActuacion": "26/09/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "19491",
+      "expediente": "LIQ-0019491",
+      "demandado1Documento": "1047428717",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "19568",
+      "expediente": "LIQ-0019568",
+      "demandado1Documento": "1118023770",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO  2213",
+          "fecActuacion": "06/02/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "11/09/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "27/11/2025",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "19597",
+      "expediente": "LIQ-0019597",
+      "demandado1Documento": "9524836",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "TERMINOS 317",
+          "nombreSubEtapa": "REQUIERE",
+          "fecActuacion": "22/08/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "23/07/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "INICIO NOTIFICACION",
+          "fecActuacion": "23/07/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "27/11/2025",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "19642",
+      "expediente": "LIQ-0019642",
+      "demandado1Documento": "47425892",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "RENUNCIA PODER",
+          "nombreSubEtapa": "PRESENTA RENUNCIA",
+          "fecActuacion": "09/04/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "NOTIFICACION CURADOR",
+          "fecActuacion": "30/09/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "19652",
+      "expediente": "LIQ-0019652",
+      "demandado1Documento": "75143035",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "TERMINOS 317",
+          "nombreSubEtapa": "REQUIERE",
+          "fecActuacion": "15/07/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "TERMINOS 317",
+          "nombreSubEtapa": "CONTESTA REQUERIMIENTO 317",
+          "fecActuacion": "19/12/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "12/03/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO 292",
+          "fecActuacion": "22/04/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 292 POSITIVO",
+          "fecActuacion": "15/05/2025",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "19715",
+      "expediente": "LIQ-0019715",
+      "demandado1Documento": "1002332030",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "DESISTIMIENTO TACITO",
+          "nombreSubEtapa": "TERMINA POR DESISTIMIENTO",
+          "fecActuacion": "22/11/2023",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "ASIGNACION",
+          "nombreSubEtapa": "ASIGNACION FRONT",
+          "fecActuacion": "20/01/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "10/04/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "19/06/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "SOLICITUD CORRECCION MANDAMIENTO",
+          "fecActuacion": "24/06/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "CORRECCION 1",
+          "fecActuacion": "10/07/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "INICIO NOTIFICACION",
+          "fecActuacion": "24/07/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO  2213",
+          "fecActuacion": "25/08/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "10/09/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "27/11/2025",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "20118",
+      "expediente": "LIQ-0020118",
+      "demandado1Documento": "21016562",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO  2213",
+          "fecActuacion": "22/06/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "14/02/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "30/07/2025",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "20127",
+      "expediente": "LIQ-0020127",
+      "demandado1Documento": "51587246",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "CORRECCION 1",
+          "fecActuacion": "27/10/2023",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "INICIO NOTIFICACION",
+          "fecActuacion": "14/05/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "03/06/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "30/07/2025",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "22252",
+      "expediente": "LIQ-0022252",
+      "demandado1Documento": "46642821",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO  2213",
+          "fecActuacion": "17/07/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "12/03/2025",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "22254",
+      "expediente": "LIQ-0022254",
+      "demandado1Documento": "53090939",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "22/03/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO  2213",
+          "fecActuacion": "19/02/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "25/02/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "SENTENCIA",
+          "nombreSubEtapa": "SENTENCIA A FAVOR",
+          "fecActuacion": "05/05/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "LIQUIDACION DE CREDITO",
+          "nombreSubEtapa": "PRESENTA LIQUIDACION",
+          "fecActuacion": "16/06/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "LIQUIDACION DE CREDITO",
+          "nombreSubEtapa": "CORRE TRASLADO",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "22262",
+      "expediente": "LIQ-0022262",
+      "demandado1Documento": "52335998",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "ASIGNACION",
+          "nombreSubEtapa": "ASIGNACION",
+          "fecActuacion": "24/06/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "01/08/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "10/10/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "SOLICITUD CORRECCION MANDAMIENTO",
+          "fecActuacion": "12/11/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "CORRECCION 1",
+          "fecActuacion": "29/11/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "INICIO NOTIFICACION",
+          "fecActuacion": "08/07/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO  2213",
+          "fecActuacion": "01/08/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "22/08/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "27/11/2025",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "22617",
+      "expediente": "LIQ-0022617",
+      "demandado1Documento": "1114452264",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "05/04/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "TERMINOS 317",
+          "nombreSubEtapa": "REQUIERE",
+          "fecActuacion": "05/09/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO  2213",
+          "fecActuacion": "03/10/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "08/10/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "SENTENCIA",
+          "nombreSubEtapa": "SENTENCIA A FAVOR",
+          "fecActuacion": "24/01/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "LIQUIDACION DE CREDITO",
+          "nombreSubEtapa": "PRESENTA LIQUIDACION",
+          "fecActuacion": "24/10/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "LIQUIDACION DE CREDITO",
+          "nombreSubEtapa": "CORRE TRASLADO",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "22644",
+      "expediente": "LIQ-0022644",
+      "demandado1Documento": "52452855",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "12/07/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "INICIO NOTIFICACION",
+          "fecActuacion": "12/12/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "SOLICITUD REFORMA DEMANDA",
+          "fecActuacion": "19/05/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "REFORMA DEMANDA",
+          "fecActuacion": "21/10/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "19/12/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "22755",
+      "expediente": "LIQ-0022755",
+      "demandado1Documento": "79364941",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "ASIGNACION",
+          "nombreSubEtapa": "ASIGNACION",
+          "fecActuacion": "01/04/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "31/07/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "INADMISION",
+          "fecActuacion": "15/08/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "RECHAZO POR NO SUBSANAR",
+          "fecActuacion": "26/09/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "ASIGNACION",
+          "nombreSubEtapa": "ASIGNACION FRONT",
+          "fecActuacion": "02/12/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "IMPULSAR MANDAMIENTO DE PAGO",
+          "fecActuacion": "07/02/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "SUBSANACION PRESENTADA",
+          "fecActuacion": "20/02/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "09/05/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "INICIO NOTIFICACION",
+          "fecActuacion": "12/05/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO  2213",
+          "fecActuacion": "28/05/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "04/06/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "30/07/2025",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "22796",
+      "expediente": "LIQ-0022796",
+      "demandado1Documento": "20931957",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "ASIGNACION",
+          "nombreSubEtapa": "ASIGNACION",
+          "fecActuacion": "15/07/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "18/07/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "RECHAZO POR NO SUBSANAR",
+          "fecActuacion": "18/11/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "ASIGNACION",
+          "nombreSubEtapa": "ASIGNACION FRONT",
+          "fecActuacion": "17/12/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "ASIGNACION",
+          "nombreSubEtapa": "NO SE PRESENTA DEMANDA",
+          "fecActuacion": "10/01/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "IMPULSAR MANDAMIENTO DE PAGO",
+          "fecActuacion": "15/05/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "24/06/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "INICIO NOTIFICACION",
+          "fecActuacion": "24/07/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "NOTIFICACION DEVUELTA FRONT",
+          "fecActuacion": "19/08/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO  2213",
+          "fecActuacion": "08/10/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "14/10/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "27/11/2025",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "22979",
+      "expediente": "LIQ-0022979",
+      "demandado1Documento": "1020409856",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "RECHAZO POR COMPETENCIA",
+          "fecActuacion": "25/09/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "13/01/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "23/01/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "INICIO NOTIFICACION",
+          "fecActuacion": "31/01/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "NOTIFICACION DEVUELTA FRONT",
+          "fecActuacion": "10/02/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "04/11/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "27813",
+      "expediente": "LIQ-0027813",
+      "demandado1Documento": "1076648004",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "18/09/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "02/10/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO  2213",
+          "fecActuacion": "03/02/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "13/02/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "30/07/2025",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "27902",
+      "expediente": "LIQ-0027902",
+      "demandado1Documento": "1031121320",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "05/07/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "SOLICITUD REFORMA DEMANDA",
+          "fecActuacion": "18/02/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "CORRECCION 1",
+          "fecActuacion": "05/12/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "INICIO NOTIFICACION",
+          "fecActuacion": "12/12/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "19/12/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "27908",
+      "expediente": "LIQ-0027908",
+      "demandado1Documento": "1079172671",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "INADMISION",
+          "fecActuacion": "03/09/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "SUBSANACION PRESENTADA",
+          "fecActuacion": "10/09/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "11/10/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "INICIO NOTIFICACION",
+          "fecActuacion": "04/02/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO  2213",
+          "fecActuacion": "17/02/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "21/03/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "27/11/2025",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "28025",
+      "expediente": "LIQ-0028025",
+      "demandado1Documento": "83089042",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "29/07/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "23/08/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO 291",
+          "fecActuacion": "18/09/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 291 POSITIVO",
+          "fecActuacion": "04/10/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO 292",
+          "fecActuacion": "18/10/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 292 POSITIVO",
+          "fecActuacion": "12/11/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "11/02/2025",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "28058",
+      "expediente": "LIQ-0028058",
+      "demandado1Documento": "23233849",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "INADMISION",
+          "fecActuacion": "29/07/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "RECHAZO POR NO SUBSANAR",
+          "fecActuacion": "09/09/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "07/11/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "10/12/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "INICIO NOTIFICACION",
+          "fecActuacion": "03/02/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO  2213",
+          "fecActuacion": "19/02/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "25/02/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "15/05/2025",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "32484",
+      "expediente": "LIQ-0032483",
+      "demandado1Documento": "79833402",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "12/09/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "INICIO NOTIFICACION",
+          "fecActuacion": "05/02/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "NOTIFICACION DEVUELTA FRONT",
+          "fecActuacion": "10/02/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO  2213",
+          "fecActuacion": "27/10/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "04/11/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "27/11/2025",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "37274",
+      "expediente": "LIQ-0037103",
+      "demandado1Documento": "39424078",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "IMPULSAR MANDAMIENTO DE PAGO",
+          "fecActuacion": "07/02/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "30/05/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "INICIO NOTIFICACION",
+          "fecActuacion": "04/07/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "NOTIFICACION DEVUELTA FRONT",
+          "fecActuacion": "24/07/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO  2213",
+          "fecActuacion": "08/10/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "14/10/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "27/11/2025",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "42742",
+      "expediente": "LIQ-0042565",
+      "demandado1Documento": "5653099",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "16/12/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "IMPULSAR MANDAMIENTO DE PAGO",
+          "fecActuacion": "07/02/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "RECHAZO POR COMPETENCIA",
+          "fecActuacion": "17/02/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "03/07/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "INICIO NOTIFICACION",
+          "fecActuacion": "24/07/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO  2213",
+          "fecActuacion": "25/08/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "10/09/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 NEGATIVO",
+          "fecActuacion": "10/09/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "42755",
+      "expediente": "LIQ-0042578",
+      "demandado1Documento": "50932354",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "IMPULSAR MANDAMIENTO DE PAGO",
+          "fecActuacion": "07/02/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "22/07/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "INICIO NOTIFICACION",
+          "fecActuacion": "05/08/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO  2213",
+          "fecActuacion": "25/08/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 NEGATIVO",
+          "fecActuacion": "10/09/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "21/10/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "42769",
+      "expediente": "LIQ-0042592",
+      "demandado1Documento": "1105057225",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "16/12/2024",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "28/01/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "IMPULSAR MANDAMIENTO DE PAGO",
+          "fecActuacion": "07/02/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO  2213",
+          "fecActuacion": "14/05/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "16/05/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "30/07/2025",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "42804",
+      "expediente": "LIQ-0042627",
+      "demandado1Documento": "28787042",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "IMPULSAR MANDAMIENTO DE PAGO",
+          "fecActuacion": "07/02/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "04/08/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "INICIO NOTIFICACION",
+          "fecActuacion": "14/10/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "27/11/2025",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "42821",
+      "expediente": "LIQ-0042644",
+      "demandado1Documento": "25611445",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "23/01/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "INICIO NOTIFICACION",
+          "fecActuacion": "27/05/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO  2213",
+          "fecActuacion": "16/09/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "16/12/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "43352",
+      "expediente": "LIQ-0043174",
+      "demandado1Documento": "9535298",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "21/03/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "IMPULSAR MANDAMIENTO DE PAGO",
+          "fecActuacion": "08/07/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "31/10/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "INICIO NOTIFICACION",
+          "fecActuacion": "14/11/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO  2213",
+          "fecActuacion": "26/11/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "10/12/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "43385",
+      "expediente": "LIQ-0043207",
+      "demandado1Documento": "52052494",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "23/04/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "IMPULSAR MANDAMIENTO DE PAGO",
+          "fecActuacion": "31/07/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "29/08/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "INICIO NOTIFICACION",
+          "fecActuacion": "28/10/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO  2213",
+          "fecActuacion": "27/11/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "10/12/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "43441",
+      "expediente": "LIQ-0043263",
+      "demandado1Documento": "52237858",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "23/04/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "IMPULSAR MANDAMIENTO DE PAGO",
+          "fecActuacion": "08/07/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "31/07/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "INICIO NOTIFICACION",
+          "fecActuacion": "10/10/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "43446",
+      "expediente": "LIQ-0043268",
+      "demandado1Documento": "86052681",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "23/04/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "27/05/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "INICIO NOTIFICACION",
+          "fecActuacion": "24/06/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "NOTIFICACION DEVUELTA FRONT",
+          "fecActuacion": "24/07/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO  2213",
+          "fecActuacion": "07/10/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "17/10/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "27/11/2025",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "43502",
+      "expediente": "LIQ-0043324",
+      "demandado1Documento": "1081417932",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "23/04/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "19/06/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO  2213",
+          "fecActuacion": "07/10/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "20/10/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "27/11/2025",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "43533",
+      "expediente": "LIQ-0043355",
+      "demandado1Documento": "74187216",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "21/03/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "RECHAZO POR COMPETENCIA",
+          "fecActuacion": "28/04/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "16/09/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO  2213",
+          "fecActuacion": "26/11/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "10/12/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "43602",
+      "expediente": "LIQ-0043424",
+      "demandado1Documento": "12257213",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "23/04/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "IMPULSAR MANDAMIENTO DE PAGO",
+          "fecActuacion": "08/07/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "01/08/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "INICIO NOTIFICACION",
+          "fecActuacion": "16/10/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "27/11/2025",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "43632",
+      "expediente": "LIQ-0043454",
+      "demandado1Documento": "24228667",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "21/03/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "10/04/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "INICIO NOTIFICACION",
+          "fecActuacion": "24/06/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO  2213",
+          "fecActuacion": "19/09/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "22/09/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "27/11/2025",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "43659",
+      "expediente": "LIQ-0043481",
+      "demandado1Documento": "28687469",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "23/04/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "27/05/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "SOLICITUD REFORMA DEMANDA",
+          "fecActuacion": "16/06/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "INADMISION",
+          "fecActuacion": "14/08/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "SUBSANACION PRESENTADA",
+          "fecActuacion": "25/08/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "REFORMA DEMANDA",
+          "fecActuacion": "12/09/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "INICIO NOTIFICACION",
+          "fecActuacion": "14/11/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO  2213",
+          "fecActuacion": "26/11/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "10/12/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "43793",
+      "expediente": "LIQ-0043615",
+      "demandado1Documento": "42874527",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "18/09/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "08/10/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO  2213",
+          "fecActuacion": "26/11/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "10/12/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "43846",
+      "expediente": "LIQ-0043668",
+      "demandado1Documento": "23782211",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "23/04/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "IMPULSAR MANDAMIENTO DE PAGO",
+          "fecActuacion": "08/07/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "01/08/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "INICIO NOTIFICACION",
+          "fecActuacion": "16/10/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "27/11/2025",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "43881",
+      "expediente": "LIQ-0043703",
+      "demandado1Documento": "39672103",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "23/04/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "RECHAZO POR COMPETENCIA",
+          "fecActuacion": "09/05/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "IMPULSAR MANDAMIENTO DE PAGO",
+          "fecActuacion": "10/07/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "INADMISION",
+          "fecActuacion": "15/08/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "SUBSANACION PRESENTADA",
+          "fecActuacion": "25/08/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "18/09/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "INICIO NOTIFICACION",
+          "fecActuacion": "22/09/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO  2213",
+          "fecActuacion": "08/10/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "20/10/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "27/11/2025",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "44005",
+      "expediente": "LIQ-0043827",
+      "demandado1Documento": "1030590994",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "ASIGNACION",
+          "nombreSubEtapa": "NO SE PRESENTA DEMANDA",
+          "fecActuacion": "18/03/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "31/03/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "IMPULSAR MANDAMIENTO DE PAGO",
+          "fecActuacion": "08/07/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "INADMISION",
+          "fecActuacion": "08/09/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "SUBSANACION PRESENTADA",
+          "fecActuacion": "15/09/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "02/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "44058",
+      "expediente": "LIQ-0043880",
+      "demandado1Documento": "40395608",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "31/03/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "28/08/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO  2213",
+          "fecActuacion": "26/11/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "10/12/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "44093",
+      "expediente": "LIQ-0043915",
+      "demandado1Documento": "29899369",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "21/03/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "RECHAZO POR COMPETENCIA",
+          "fecActuacion": "23/05/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "31/07/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "INICIO NOTIFICACION",
+          "fecActuacion": "16/10/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "27/11/2025",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "44177",
+      "expediente": "LIQ-0043999",
+      "demandado1Documento": "55224909",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "14/02/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "24/04/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "INICIO NOTIFICACION",
+          "fecActuacion": "28/04/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO  2213",
+          "fecActuacion": "14/05/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "16/05/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "30/07/2025",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "44196",
+      "expediente": "LIQ-0044018",
+      "demandado1Documento": "21968919",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "10/02/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "03/03/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "INICIO NOTIFICACION",
+          "fecActuacion": "04/03/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO  2213",
+          "fecActuacion": "22/09/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "22/09/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "27/11/2025",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "44247",
+      "expediente": "LIQ-0044069",
+      "demandado1Documento": "40394868",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "21/02/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "INADMISION",
+          "fecActuacion": "22/05/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "SUBSANACION PRESENTADA",
+          "fecActuacion": "28/05/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "10/07/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "INICIO NOTIFICACION",
+          "fecActuacion": "16/10/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "27/11/2025",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "44324",
+      "expediente": "LIQ-0044146",
+      "demandado1Documento": "8740201",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "14/02/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "IMPULSAR MANDAMIENTO DE PAGO",
+          "fecActuacion": "18/03/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "08/04/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "INICIO NOTIFICACION",
+          "fecActuacion": "21/04/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO  2213",
+          "fecActuacion": "29/04/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "05/05/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "CORRECCION 1",
+          "fecActuacion": "18/06/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "30/07/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "SENTENCIA",
+          "nombreSubEtapa": "SENTENCIA A FAVOR",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "44329",
+      "expediente": "LIQ-0044151",
+      "demandado1Documento": "91515752",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "21/03/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "22/04/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "INICIO NOTIFICACION",
+          "fecActuacion": "12/06/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO  2213",
+          "fecActuacion": "26/06/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "10/07/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "30/07/2025",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "44334",
+      "expediente": "LIQ-0044156",
+      "demandado1Documento": "1047381800",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "11/02/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "IMPULSAR MANDAMIENTO DE PAGO",
+          "fecActuacion": "19/03/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "RECHAZO POR COMPETENCIA",
+          "fecActuacion": "27/03/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "12/05/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "INICIO NOTIFICACION",
+          "fecActuacion": "12/06/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO  2213",
+          "fecActuacion": "26/06/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "14/07/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "30/07/2025",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "52729",
+      "expediente": "LIQ-0052530",
+      "demandado1Documento": "1035227007",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO  2213",
+          "fecActuacion": "16/10/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "20/10/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "28/10/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "INICIO NOTIFICACION",
+          "fecActuacion": "14/11/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "19/12/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "88443",
+      "expediente": "LIQ-0059788",
+      "demandado1Documento": "20736552",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "28/08/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "IMPULSAR MANDAMIENTO DE PAGO",
+          "fecActuacion": "25/11/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "INADMISION",
+          "fecActuacion": "09/12/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "SUBSANACION PRESENTADA",
+          "fecActuacion": "15/12/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "88444",
+      "expediente": "LIQ-0059789",
+      "demandado1Documento": "20830324",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "28/08/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "INADMISION",
+          "fecActuacion": "22/09/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "SUBSANACION PRESENTADA",
+          "fecActuacion": "30/09/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "20/10/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "INICIO NOTIFICACION",
+          "fecActuacion": "13/11/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO  2213",
+          "fecActuacion": "26/11/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "10/12/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "88448",
+      "expediente": "LIQ-0059793",
+      "demandado1Documento": "27988599",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "28/08/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "24/10/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "INICIO NOTIFICACION",
+          "fecActuacion": "24/10/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO  2213",
+          "fecActuacion": "27/11/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "10/12/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "88453",
+      "expediente": "LIQ-0059798",
+      "demandado1Documento": "46372773",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "28/08/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "06/10/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "INICIO NOTIFICACION",
+          "fecActuacion": "13/11/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO  2213",
+          "fecActuacion": "26/11/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "10/12/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "93847",
+      "expediente": "LIQ-0063247",
+      "demandado1Documento": "35407962",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "ASIGNACION",
+          "nombreSubEtapa": "ALISTAMIENTO",
+          "fecActuacion": "02/10/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "08/10/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "INADMISION",
+          "fecActuacion": "17/10/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "ELABORACION SUBSANACION",
+          "fecActuacion": "27/10/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "SUBSANACION PRESENTADA",
+          "fecActuacion": "27/10/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "IMPULSAR MANDAMIENTO DE PAGO",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "94892",
+      "expediente": "LIQ-0064039",
+      "demandado1Documento": "76289216",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "22/10/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "27/10/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "INICIO NOTIFICACION",
+          "fecActuacion": "13/11/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "ENVIO  2213",
+          "fecActuacion": "26/11/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "RESULTADO 2213 POSITIVO",
+          "fecActuacion": "10/12/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "IMPULSAR SENTENCIA",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "101112",
+      "expediente": "LIQ-0067613",
+      "demandado1Documento": "79432194",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "14/11/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "IMPULSAR MANDAMIENTO DE PAGO",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "101114",
+      "expediente": "LIQ-0067615",
+      "demandado1Documento": "31281581",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "14/11/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "29/01/2026",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "IMPULSAR MANDAMIENTO DE PAGO",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "101115",
+      "expediente": "LIQ-0067616",
+      "demandado1Documento": "41495312",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "14/11/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "IMPULSAR MANDAMIENTO DE PAGO",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "101144",
+      "expediente": "LIQ-0067643",
+      "demandado1Documento": "1085266628",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "14/11/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "IMPULSAR MANDAMIENTO DE PAGO",
+          "fecActuacion": "25/11/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "RECHAZO POR COMPETENCIA",
+          "fecActuacion": "04/12/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "02/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "104071",
+      "expediente": "LIQ-0069882",
+      "demandado1Documento": "39702203",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "01/12/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "IMPULSAR MANDAMIENTO DE PAGO",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "104073",
+      "expediente": "LIQ-0069884",
+      "demandado1Documento": "80425661",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "01/12/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "IMPULSAR MANDAMIENTO DE PAGO",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "104076",
+      "expediente": "LIQ-0069887",
+      "demandado1Documento": "52897473",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "01/12/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "IMPULSAR MANDAMIENTO DE PAGO",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "104630",
+      "expediente": "LIQ-0069948",
+      "demandado1Documento": "1102848709",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "01/12/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "01/12/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "IMPULSAR MANDAMIENTO DE PAGO",
+          "fecActuacion": "14/01/2026",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "NOTIFICACION",
+          "nombreSubEtapa": "INICIO NOTIFICACION",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "104631",
+      "expediente": "LIQ-0069949",
+      "demandado1Documento": "1052338131",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "01/12/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "IMPULSAR MANDAMIENTO DE PAGO",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "502235",
+      "expediente": "LIQ-0070970",
+      "demandado1Documento": "43540915",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "04/12/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "02/02/2026",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "IMPULSAR MANDAMIENTO DE PAGO",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "502239",
+      "expediente": "LIQ-0070974",
+      "demandado1Documento": "80720977",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "04/12/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "IMPULSAR MANDAMIENTO DE PAGO",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "502240",
+      "expediente": "LIQ-0070975",
+      "demandado1Documento": "53047470",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "04/12/2025",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "IMPULSAR MANDAMIENTO DE PAGO",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "858526",
+      "expediente": "LIQ-0073052",
+      "demandado1Documento": "2989673",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "22/01/2026",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "IMPULSAR MANDAMIENTO DE PAGO",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "858532",
+      "expediente": "LIQ-0073058",
+      "demandado1Documento": "71935576",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "22/01/2026",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "IMPULSAR MANDAMIENTO DE PAGO",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    },
+    {
+      "idExpediente": "858546",
+      "expediente": "LIQ-0073072",
+      "demandado1Documento": "39544610",
+      "actuaciones": [
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "PRESENTACION",
+          "fecActuacion": "22/01/2026",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "MANDAMIENTO DE PAGO",
+          "nombreSubEtapa": "AUTO",
+          "fecActuacion": "02/02/2026",
+          "observacionP1": null
+        },
+        {
+          "nombreTipoEtapa": "PRESENTACION DEMANDA",
+          "nombreSubEtapa": "IMPULSAR MANDAMIENTO DE PAGO",
+          "fecActuacion": "03/02/2026",
+          "observacionP1": null
+        }
+      ]
+    }
+  ]
+}

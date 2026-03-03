@@ -1,0 +1,237 @@
+{
+  "timestamp": "2026-03-03T04:33:04.564Z",
+  "window": {
+    "hwnd": "136316666",
+    "processId": 9012,
+    "processName": "ics_client7_3_0_0",
+    "title": "Internet Collection System 7_3_0_0 build 20201204 - [80125021 - FINAMERICA - GZJURIDICA]",
+    "isIcsProcess": true
+  },
+  "controls": {
+    "buscarButton": {
+      "hwnd": "150800412",
+      "title": "Buscar",
+      "className": "Button",
+      "left": 911,
+      "top": 305,
+      "right": 981,
+      "bottom": 326,
+      "width": 70,
+      "height": 21
+    },
+    "identificationInput": {
+      "hwnd": "33949782",
+      "title": "80125021",
+      "className": "Edit",
+      "left": 768,
+      "top": 305,
+      "right": 903,
+      "bottom": 324,
+      "width": 135,
+      "height": 19
+    },
+    "legalTab": {
+      "hwnd": "199356",
+      "title": "Legal",
+      "className": "FNUDO3100",
+      "left": 674,
+      "top": 359,
+      "right": 1527,
+      "bottom": 546,
+      "width": 853,
+      "height": 187
+    }
+  },
+  "summary": {
+    "ok": false,
+    "method": "pbtab_scan_click",
+    "realClickTried": true,
+    "realClickHit": false,
+    "realClickAttempts": 1,
+    "realClickMode": "guided_global_attempt",
+    "realTabCandidates": 1,
+    "realTabHandleUsed": "186123980",
+    "fallbackReason": "real_keyboard_and_click_not_confirmed",
+    "selected": false,
+    "panelChanged": false,
+    "activePageBefore": null,
+    "activePageAfter": null,
+    "legalHandleUsed": "199356",
+    "deudorHandleUsed": "108071366",
+    "parentGroupUsed": "186123980",
+    "mainWindowRequested": "136316666",
+    "mainWindowUsed": "136316666",
+    "mainWindowSource": "requested",
+    "inputRoot": "136316666",
+    "buscarRoot": "136316666",
+    "legalRoot": "136316666",
+    "inputAncestorPage": null,
+    "buscarAncestorPage": null,
+    "hiddenCount": 0,
+    "debug": {
+      "tabCandidates": [
+        "186123980"
+      ],
+      "directLegalClickCandidates": [],
+      "orderedPages": [
+        {
+          "ix": 0,
+          "hwnd": "108071366",
+          "parentHwnd": "186123980",
+          "title": "Deudor",
+          "className": "FNUDO3100",
+          "visible": false
+        },
+        {
+          "ix": 1,
+          "hwnd": "919110",
+          "parentHwnd": "186123980",
+          "title": "Direcciones",
+          "className": "FNUDO3100",
+          "visible": false
+        },
+        {
+          "ix": 2,
+          "hwnd": "257493072",
+          "parentHwnd": "186123980",
+          "title": "Obligaciones",
+          "className": "FNUDO3100",
+          "visible": false
+        },
+        {
+          "ix": 3,
+          "hwnd": "199320",
+          "parentHwnd": "186123980",
+          "title": "Cuentas",
+          "className": "FNUDO3100",
+          "visible": false
+        },
+        {
+          "ix": 4,
+          "hwnd": "199356",
+          "parentHwnd": "186123980",
+          "title": "Legal",
+          "className": "FNUDO3100",
+          "visible": false
+        },
+        {
+          "ix": 5,
+          "hwnd": "1182786",
+          "parentHwnd": "186123980",
+          "title": "Promesas",
+          "className": "FNUDO3100",
+          "visible": false
+        },
+        {
+          "ix": 6,
+          "hwnd": "199968",
+          "parentHwnd": "186123980",
+          "title": "Garant�as",
+          "className": "FNUDO3100",
+          "visible": false
+        },
+        {
+          "ix": 7,
+          "hwnd": "259262850",
+          "parentHwnd": "186123980",
+          "title": "Negociaciones",
+          "className": "FNUDO3100",
+          "visible": false
+        },
+        {
+          "ix": 8,
+          "hwnd": "199272",
+          "parentHwnd": "186123980",
+          "title": "Cheques",
+          "className": "FNUDO3100",
+          "visible": false
+        },
+        {
+          "ix": 9,
+          "hwnd": "199302",
+          "parentHwnd": "186123980",
+          "title": "Visitas",
+          "className": "FNUDO3100",
+          "visible": false
+        },
+        {
+          "ix": 10,
+          "hwnd": "199386",
+          "parentHwnd": "186123980",
+          "title": "Cartas",
+          "className": "FNUDO3100",
+          "visible": false
+        },
+        {
+          "ix": 11,
+          "hwnd": "199412",
+          "parentHwnd": "186123980",
+          "title": "Bienes",
+          "className": "FNUDO3100",
+          "visible": false
+        }
+      ],
+      "pbSource": [
+        {
+          "hwnd": "186123980",
+          "parentHwnd": "396442"
+        }
+      ],
+      "attemptTrace": [
+        {
+          "n": 1,
+          "phase": "direct_candidates",
+          "mode": "prepare",
+          "targetHwnd": "0",
+          "x": null,
+          "y": null,
+          "activeBefore": "",
+          "activeAfter": "",
+          "confirmed": false,
+          "note": "count=0",
+          "ts": "23:33:04.016"
+        },
+        {
+          "n": 2,
+          "phase": "tab_candidates",
+          "mode": "prepare",
+          "targetHwnd": "0",
+          "x": null,
+          "y": null,
+          "activeBefore": "",
+          "activeAfter": "",
+          "confirmed": false,
+          "note": "count=1",
+          "ts": "23:33:04.072"
+        },
+        {
+          "n": 3,
+          "phase": "click",
+          "mode": "guided_global_attempt",
+          "targetHwnd": "186123980",
+          "x": 334,
+          "y": 11,
+          "activeBefore": "",
+          "activeAfter": "",
+          "confirmed": false,
+          "note": "",
+          "ts": "23:33:04.489"
+        },
+        {
+          "n": 4,
+          "phase": "final_state",
+          "mode": "pbtab_scan_click",
+          "targetHwnd": "199356",
+          "x": null,
+          "y": null,
+          "activeBefore": "",
+          "activeAfter": "",
+          "confirmed": false,
+          "note": "postLegalVisible=False",
+          "ts": "23:33:04.498"
+        }
+      ]
+    },
+    "error": "No se pudo activar Legal."
+  }
+}
